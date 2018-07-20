@@ -1,7 +1,7 @@
 # Kode with Klossy  - Flowchart Application Project
 
 <img src="https://cl.ly/rQb8/Image%202018-05-08%20at%209.16.17%20AM.png" align="right" hspace="10" vspace="10" width="250">
-
+https://learn.co/sign_out
 ## Overview
 
 One of your final projects can be a "Flowchart" style application that can lead a person down a [decision tree](https://www.pinterest.com/pin/125819383316124395/).
